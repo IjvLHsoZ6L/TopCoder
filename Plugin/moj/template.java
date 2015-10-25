@@ -1,7 +1,3 @@
-$BEGINCUT$
-$PROBLEMDESC$
-$ENDCUT$
-
 import java.util.*;
 
 public class $CLASSNAME$ {
